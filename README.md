@@ -29,12 +29,12 @@ Muitas vezes precisamos de um script para um determinado serviço, e diantes de 
 
 2.  **Conceda permissão para o arquivo!**
 ```
-chmod +x findFTP.py
+chmod +x search-nmap.sh
 ```
 
 ## 🧐 Como usar o script?
 
-Você irá digitar ```./findFTP.py``` 
+Você irá digitar ```./search-nmap.sh``` 
   
 <img alt="faciltech" src="20230118_194341.gif"/>
 ## 🎓 Linguagem

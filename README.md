@@ -1,4 +1,4 @@
-# search-nmap
+# Search nmap
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.faciltech.info">
@@ -37,10 +37,10 @@ chmod +x findFTP.py
 
 Você irá digitar ```./findFTP.py``` 
   
-
+<img alt="faciltech" src="20230118_194341.gif"/>
 ## 🎓 Linguagem
 
-O utilitário é desenvolvido em linguagem python, fazendo uso de poucas bibliotecas, e fazendo uso de SOCK, sendo assim, causa menos ruídos que outras ferramentas.
+O utilitário é desenvolvido em linguagem shellscript, necessita que o nmap esteja instalado na maquina.
 
 <!-- AUTO-GENERATED-CONTENT:END -->
 

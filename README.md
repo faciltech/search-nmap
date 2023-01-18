@@ -18,7 +18,7 @@ Muitas vezes precisamos de um script para um determinado serviço, e diantes de 
     Navegue dentro de seu sistema, escolha o local e execute no terminal o comando abaixo.
 
     ``` git clone https://github.com/faciltech/search-nmap.git
-        Cloning into 'findFTP'...
+        Cloning into 'search-nmap'...
         remote: Enumerating objects: 10, done.
         remote: Counting objects: 100% (10/10), done.
         remote: Compressing objects: 100% (10/10), done.

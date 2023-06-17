@@ -8,7 +8,7 @@
   Search Nmap - Entender melhor os scripts do nmap
 </h1>
 
-A ideia nesse script simples é utilizando o próprio nmap, descobrir de forma simples, como os seus scripts funcionam.
+A ideia desse script simples é utilizar o próprio nmap, para descobrir de forma simples, como os seus scripts funcionam.
 ## 🚀 Por que usa-lo?
 
 Muitas vezes precisamos de um script para um determinado serviço, e diantes de centenas de opções, muitas vezes escolhemos uma determinada opção, em que este nem sempre trás o resultado esperado, muitas vezes porque necessitava de algum argumento, então para facilitar o entendimento do script, sem necessidade de ler o código fonte, resolvi facilitar minha vida criando este processo automatizado. 
@@ -32,7 +32,7 @@ Muitas vezes precisamos de um script para um determinado serviço, e diantes de 
 ```
 chmod +x search-nmap.sh
 ```
-
+OBS: Uma outra boa dica é mover o arquivo do script para o diretório /usr/bin , dessa forma podemos utilizar de forma direta no terminal.
 ## 🧐 Como usar o script?
 
 Você irá digitar ```./search-nmap.sh``` 
